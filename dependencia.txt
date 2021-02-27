@@ -1,0 +1,17 @@
+yarn create next-app moveit-next
+
+yarn add typescript @types/react @types/react-dom @types/node -D
+
+yarn dev
+
+yarn next build
+
+yarn add js-cookie
+
+yarn add @types/js-cookie -D
+
+npm i -g vercel
+
+vercel
+
+vercel --prod
